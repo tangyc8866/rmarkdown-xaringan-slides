@@ -407,7 +407,7 @@ class: metroheader
 # .yellow[就业]: 美国招聘岗位需求统计(2017年11月)
 
 ```{r, echo=FALSE, out.width = "40%",fig.cap=fig$cap("","编程语言与就业")}
-knitr::include_graphics("./loc-figs/job.png")
+knitr::include_graphics("./loc-figs/job.jpg")
 ```
 
 ---
@@ -790,7 +790,7 @@ class: metroheader
 
 .pull-right[
 ```{r, echo = FALSE, out.width = "100%", fig.cap = "导航栏切换"}
-knitr::include_graphics("./loc-figs/rstudio-aviation.png")
+knitr::include_graphics("./loc-figs/rstudio-aviation.jpg")
 ```
 ]
 
