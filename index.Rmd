@@ -407,7 +407,7 @@ class: metroheader
 # .yellow[就业]: 美国招聘岗位需求统计(2017年11月)
 
 ```{r, echo=FALSE, out.width = "40%",fig.cap=fig$cap("","编程语言与就业")}
-knitr::include_graphics("./loc-figs/PYorR-job.jpg")
+knitr::include_graphics("./loc-figs/PYorR-job.png")
 ```
 
 ---
@@ -608,7 +608,7 @@ knitr::include_graphics("./loc-figs/yihui.png")
 ]
 
 ```{r, echo=FALSE, out.width = "66%"}
-knitr::include_graphics("./loc-figs/yihuibooks.jpg")
+knitr::include_graphics("./loc-figs/Yihuibooks.png")
 ```
 
 
@@ -726,7 +726,7 @@ class: metroheader
 
 .pull-right[
 ```{r, echo = FALSE, out.width = "100%"}
-knitr::include_graphics("./loc-figs/rstudio-console.png")
+knitr::include_graphics("./loc-figs/rstudio-console.jpg")
 ```
 ]
 
@@ -743,12 +743,12 @@ class: metroheader
 
 - R代码编辑器
 ```{r, echo = FALSE, out.width = "50%"}
-knitr::include_graphics("./loc-figs/rstudio-source-1.png")
+knitr::include_graphics("./loc-figs/rstudio-source-1.jpg")
 ```
 
 - Rmd/Qmd文档编辑器
 ```{r, echo = FALSE, out.width = "50%"}
-knitr::include_graphics("./loc-figs/rstudio-source-2.png")
+knitr::include_graphics("./loc-figs/rstudio-source-2.jpg")
 ```
 
 > 不同文档对应的菜单布局略有差异
@@ -800,7 +800,7 @@ class: metroheader
 # Workspace窗口 (右上)
 
 ```{r, echo = FALSE, fig.align='center', out.width = "50%", fig.cap = "Workspace窗口"}
-knitr::include_graphics("./loc-figs/rstudio-workspace.png")
+knitr::include_graphics("./loc-figs/rstudio-workspace.jpg")
 ```
 
 栏目/功能:
@@ -824,20 +824,20 @@ class: metroheader
 - Viewer: 预览R Markdown文档编辑后的结果
 
 ```{r, echo = FALSE, fig.align='center', out.width = "50%"}
-knitr::include_graphics("./loc-figs/rstudio-plot-1.png")
+knitr::include_graphics("./loc-figs/rstudio-plot-1.jpg")
 ```
 
 
 - Plots: 显示R绘图结果
 
 ```{r, echo = FALSE, fig.align='center', out.width = "50%"}
-knitr::include_graphics("./loc-figs/rstudio-plot-2.png")
+knitr::include_graphics("./loc-figs/rstudio-plot-2.jpg")
 ```
 
 - Packages： R包管理器(安装，加载，更新)
 
 ```{r, echo = FALSE, fig.align='center', out.width = "50%"}
-knitr::include_graphics("./loc-figs/rstudio-plot-3.png")
+knitr::include_graphics("./loc-figs/rstudio-plot-3.jpg")
 ```
 
 - Files: 当前工作目录中文件(Console中的小箭头也可转到Files)
@@ -892,7 +892,7 @@ class: metroheader
 
 .pull-right[
 ```{r, echo=FALSE, out.width = "80%",fig.cap=fig$cap("","R Markdown呈现形式")}
-knitr::include_graphics("./loc-figs/rmd-2.png")
+knitr::include_graphics("./loc-figs/RMD-2.jpg")
 ```
 ]
 
@@ -936,7 +936,7 @@ class: metroheader
 # Knitr流程
 
 ```{r, echo=FALSE, out.width = "60%"}
-knitr::include_graphics("./loc-figs/rmarkdownflow.png")
+knitr::include_graphics("./loc-figs/RMarkdownFlow.jpg")
 ```
 
 ```{r, echo=FALSE, out.width = "60%",fig.cap=fig$cap("","knitr流程")}
@@ -1287,7 +1287,7 @@ class: title-slide, middle,center
 ---
 class: title-slide, middle, center
 
-<img src="figures/wx-tyc.jpg" width="250px"; height="250px"; style="position:absolute; right:0px; top:0px; ">
+<img src="figures/WX-TYC.png" width="250px"; height="250px"; style="position:absolute; right:0px; top:0px; ">
 
 <br>
 <br>
