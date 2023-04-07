@@ -114,7 +114,8 @@ text-decoration:none;
 /* title-slide style */
 .title-slide {
   border-top: 0px solid;
-  background-color: #1E4B75;
+  background-image: url("../figures/slideCover.png");
+  background-color: #FAFAFA;
   background-size: cover;
 }
 

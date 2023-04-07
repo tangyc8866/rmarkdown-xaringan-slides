@@ -358,7 +358,7 @@ class: metroheader
 
 --
 ```{r, echo = FALSE, out.width = "65%", fig.cap=fig$cap("","编程语言性能比较(相对于C=1.0)")}
-knitr::include_graphics("./loc-figs/Ly2.jpeg")
+knitr::include_graphics("./loc-figs/HPC-julia2.png")
 ```
 
 ---
