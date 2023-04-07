@@ -114,7 +114,7 @@ text-decoration:none;
 /* title-slide style */
 .title-slide {
   border-top: 0px solid;
-  background-image: url("../figures/slideCover.png");
+  background-image: url("../figures/statLogo-01.png");
   background-color: #FAFAFA;
   background-size: cover;
 }
