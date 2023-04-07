@@ -114,8 +114,8 @@ text-decoration:none;
 /* title-slide style */
 .title-slide {
   border-top: 0px solid;
-  background-image: url("../loc-figs/Ly2.jpeg");
-  background-color: red;
+  background-image: url("../figures/slideCover.png");
+  background-color: #1E4B75;
   background-size: cover;
 }
 
