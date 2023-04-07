@@ -10,7 +10,7 @@
 ## 更新信息
 
 
-- A rmarkdown-xaringan-slide template is added.
+- 添加rmarkDown-Xaringan-Slide模板内容。
 
-- 添加 GitHub Page.
+- 添加 GitHub Page。
 
