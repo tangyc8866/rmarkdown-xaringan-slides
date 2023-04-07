@@ -358,7 +358,7 @@ class: metroheader
 
 --
 ```{r, echo = FALSE, out.width = "65%", fig.cap=fig$cap("","编程语言性能比较(相对于C=1.0)")}
-knitr::include_graphics("./loc-figs/HPC-julia2.jpg")
+knitr::include_graphics("./loc-figs/HPC-julia2.png")
 ```
 
 ---
@@ -1287,7 +1287,7 @@ class: title-slide, middle,center
 ---
 class: title-slide, middle, center
 
-<img src="figures/WX-TYC.JPG" width="250px"; height="250px"; style="position:absolute; right:0px; top:0px; ">
+<img src="figures/wx-tyc.jpg" width="250px"; height="250px"; style="position:absolute; right:0px; top:0px; ">
 
 <br>
 <br>
