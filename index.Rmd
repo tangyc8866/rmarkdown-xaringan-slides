@@ -726,7 +726,7 @@ class: metroheader
 
 .pull-right[
 ```{r, echo = FALSE, out.width = "100%"}
-knitr::include_graphics("./loc-figs/rstudio-console.jpg")
+knitr::include_graphics("./loc-figs/rstudio-console.png")
 ```
 ]
 
@@ -824,20 +824,20 @@ class: metroheader
 - Viewer: 预览R Markdown文档编辑后的结果
 
 ```{r, echo = FALSE, fig.align='center', out.width = "50%"}
-knitr::include_graphics("./loc-figs/rstudio-plot-1.jpg")
+knitr::include_graphics("./loc-figs/rstudio-plot1.png")
 ```
 
 
 - Plots: 显示R绘图结果
 
 ```{r, echo = FALSE, fig.align='center', out.width = "50%"}
-knitr::include_graphics("./loc-figs/rstudio-plot-2.jpg")
+knitr::include_graphics("./loc-figs/rstudio-plot2.png")
 ```
 
 - Packages： R包管理器(安装，加载，更新)
 
 ```{r, echo = FALSE, fig.align='center', out.width = "50%"}
-knitr::include_graphics("./loc-figs/rstudio-plot-3.jpg")
+knitr::include_graphics("./loc-figs/rstudio-plot3.png")
 ```
 
 - Files: 当前工作目录中文件(Console中的小箭头也可转到Files)
