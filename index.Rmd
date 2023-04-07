@@ -743,12 +743,12 @@ class: metroheader
 
 - R代码编辑器
 ```{r, echo = FALSE, out.width = "50%"}
-knitr::include_graphics("./loc-figs/rstudio-source-1.jpg")
+knitr::include_graphics("./loc-figs/rstudio-source1.png")
 ```
 
 - Rmd/Qmd文档编辑器
 ```{r, echo = FALSE, out.width = "50%"}
-knitr::include_graphics("./loc-figs/rstudio-source-2.jpg")
+knitr::include_graphics("./loc-figs/rstudio-source2.png")
 ```
 
 > 不同文档对应的菜单布局略有差异
@@ -800,7 +800,7 @@ class: metroheader
 # Workspace窗口 (右上)
 
 ```{r, echo = FALSE, fig.align='center', out.width = "50%", fig.cap = "Workspace窗口"}
-knitr::include_graphics("./loc-figs/rstudio-workspace.jpg")
+knitr::include_graphics("./loc-figs/rstudio-workspace.png")
 ```
 
 栏目/功能:
