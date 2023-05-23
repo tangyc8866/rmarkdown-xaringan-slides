@@ -37,6 +37,6 @@ MathJax.Hub.Config({
 
 </script>
 <script type="text/javascript"
-   src="http://127.0.0.1/MathJax/MathJax.js">
+   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
 </script>
 
